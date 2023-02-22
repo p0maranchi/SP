@@ -1,0 +1,167 @@
+body {
+    background-color: #F0EFFE;
+}
+nav {
+    background-color: #8c69a0;
+    font-size: 32px;
+}
+ 
+img.image {
+    width: 200px;
+    height: 300px;
+    
+}
+
+img.image2 {
+    width: 300px;
+    height: 175px;
+    
+}
+
+img.image3 {
+    width: 300px;
+    height: 340px;
+    
+}
+
+.end {
+    text-align: center;
+    color: black;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: .25%;
+}
+
+article {
+    clear: both;
+    overflow: auto;
+    width: 100%;
+    background-color: #ffffff;
+}
+    
+hgroup {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.ff {
+    float: left;
+    width: 212px;
+    height: 330px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    border: 1px solid #e3e2f7;
+    background-color: #F0EFFE;
+}
+
+.fl {
+    float: left;
+    width: 312px;
+    height: 205px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    border: 1px solid #e3e2f7;
+    background-color: #F0EFFE;
+}
+
+.fl {
+    float: left;
+    width: 312px;
+    height: 205px;
+    padding: 5px;
+    margin: 20px;
+    border: 1px solid #e3e2f7;
+    background-color: #F0EFFE;
+}
+
+.ffl {
+    float: left;
+    width: 212px;
+    height: 330px;
+    padding: 5px;
+    margin: 20px;
+    border: 1px solid #e3e2f7;
+    background-color: #F0EFFE;
+}
+
+.fll {
+    float: left;
+    width: 312px;
+    height: 205px;
+    padding: 5px;
+    margin: 20px;
+    border: 1px solid #e3e2f7;
+    background-color: #F0EFFE;
+}
+
+p {
+    text-align:justify;
+    margin: 20px;
+    margin-top: 0px;
+}
+
+figcaption {
+    font-size: 90%;
+    text-align: center;}
+
+.last {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #d6d4d4;
+    text-align: center;
+    color: white;
+}
+
+blockquote {
+    text-align: center;
+    width: 300px;
+    font-size: 100%;
+    border-top: 1px solid #665544;
+    border-bottom: 1px solid #665544;
+}
+
+table {
+    border: 3px solid;
+    border-color: #dcdbe9;
+    background-color: #F0EFFE;
+    align-self: center;
+    margin-left: 10px;
+}
+
+
+th, td {
+    border: 1px solid;
+    border-color: #dcdbe9;
+}
+
+aside {
+    float: right;
+    vertical-align: top;
+    
+}
+
+
+h3 {
+    text-align: center;
+}
+
+h1, h2 {
+    margin-left: 20px;
+}
+
+.cont {
+    background-color: #ffffff; 
+}
+
+h1.h1 {
+    margin-top: 20px;
+}
